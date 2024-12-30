@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Men Regular Mid Rise Black Jeans",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734694758/wetzfcqakchhmwvnowzs.webp",
+    "originalPrice": 1299.00,
+    "salePrice": 649.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 2,
+    "title": "Men Slim Mid Rise Black Jeans",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695707/oiv9cbhaxnpkpfmqe1jd.webp",
+    "originalPrice": 1499.00,
+    "salePrice": 749.00,
+    "onSale": false,
+    "isOutOfStock": true
+  },
+  {
+    "id": 3,
+    "title": "Women Bodycon Yellow Dress",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695838/ynzzdntm366l9sstb6f3.webp",
+    "originalPrice": 1999.00,
+    "salePrice": 899.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 4,
+    "title": "Women Fit and Flare Yellow, White, Black Dress",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695899/itwadtjxx5227gm9aumz.webp",
+    "originalPrice": 2499.00,
+    "salePrice": 1199.00,
+    "onSale": false,
+    "isOutOfStock": true
+  },
+  {
+    "id": 5,
+    "title": "Men Regular Fit Blue Shirt",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734694758/wetzfcqakchhmwvnowzs.webp",
+    "originalPrice": 999.00,
+    "salePrice": 499.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 6,
+    "title": "Women Casual Red Top",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695707/oiv9cbhaxnpkpfmqe1jd.webp",
+    "originalPrice": 799.00,
+    "salePrice": 399.00,
+    "onSale": false,
+    "isOutOfStock": true
+  },
+  {
+    "id": 7,
+    "title": "Men Slim Fit Grey Trousers",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695838/ynzzdntm366l9sstb6f3.webp",
+    "originalPrice": 1299.00,
+    "salePrice": 649.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 8,
+    "title": "Women Maxi Blue Dress",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695899/itwadtjxx5227gm9aumz.webp",
+    "originalPrice": 1999.00,
+    "salePrice": 999.00,
+    "onSale": false,
+    "isOutOfStock": true
+  },
+  {
+    "id": 9,
+    "title": "Men Casual White T-Shirt",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734694758/wetzfcqakchhmwvnowzs.webp",
+    "originalPrice": 599.00,
+    "salePrice": 299.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 10,
+    "title": "Women Formal Black Blazer",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695707/oiv9cbhaxnpkpfmqe1jd.webp",
+    "originalPrice": 2999.00,
+    "salePrice": 1499.00,
+    "onSale": false,
+    "isOutOfStock": true
+  },
+  {
+    "id": 11,
+    "title": "Men Regular Fit Green Shirt",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695838/ynzzdntm366l9sstb6f3.webp",
+    "originalPrice": 999.00,
+    "salePrice": 499.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 12,
+    "title": "Women Casual Pink Top",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695899/itwadtjxx5227gm9aumz.webp",
+    "originalPrice": 799.00,
+    "salePrice": 399.00,
+    "onSale": false,
+    "isOutOfStock": true
+  },
+  {
+    "id": 13,
+    "title": "Men Slim Fit Black Trousers",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734694758/wetzfcqakchhmwvnowzs.webp",
+    "originalPrice": 1299.00,
+    "salePrice": 649.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 14,
+    "title": "Women Maxi Red Dress",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695707/oiv9cbhaxnpkpfmqe1jd.webp",
+    "originalPrice": 1999.00,
+    "salePrice": 999.00,
+    "onSale": false,
+    "isOutOfStock": true
+  },
+  {
+    "id": 15,
+    "title": "Men Casual Blue T-Shirt",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695838/ynzzdntm366l9sstb6f3.webp",
+    "originalPrice": 599.00,
+    "salePrice": 299.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 16,
+    "title": "Women Formal Grey Blazer",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695899/itwadtjxx5227gm9aumz.webp",
+    "originalPrice": 2999.00,
+    "salePrice": 1499.00,
+    "onSale": false,
+    "isOutOfStock": true
+  },
+  {
+    "id": 17,
+    "title": "Men Regular Fit Yellow Shirt",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734694758/wetzfcqakchhmwvnowzs.webp",
+    "originalPrice": 999.00,
+    "salePrice": 499.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 18,
+    "title": "Women Casual Green Top",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695707/oiv9cbhaxnpkpfmqe1jd.webp",
+    "originalPrice": 799.00,
+    "salePrice": 399.00,
+    "onSale": false,
+    "isOutOfStock": true
+  },
+  {
+    "id": 19,
+    "title": "Men Slim Fit Blue Trousers",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695838/ynzzdntm366l9sstb6f3.webp",
+    "originalPrice": 1299.00,
+    "salePrice": 649.00,
+    "onSale": true,
+    "isOutOfStock": false
+  },
+  {
+    "id": 20,
+    "title": "Women Maxi Green Dress",
+    "image": "http://res.cloudinary.com/dci8ztpsm/image/upload/v1734695899/itwadtjxx5227gm9aumz.webp",
+    "originalPrice": 1999.00,
+    "salePrice": 999.00,
+    "onSale": false,
+    "isOutOfStock": true
+  }
+]
